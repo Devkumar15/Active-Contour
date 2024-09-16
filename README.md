@@ -1,4 +1,4 @@
-# Active-Contour
+# Agricultural Field Boundary Detection Using Active Contours (Snakes) and Satellite Imagery
 Agricultural Field Boundary Detection Using Active Contours (Snakes) and Satellite Imagery  This project implements active contour models (snakes) for the automatic detection of agricultural field boundaries from satellite images. The workflow includes:  Image preprocessing with Gaussian filtering.
 
 This project demonstrates the detection and extraction of agricultural field boundaries from satellite images using active contour models (snakes) and various image processing techniques. The project also includes geospatial processing to convert detected boundaries into georeferenced coordinates and export them in KML format for visualization in mapping tools such as Google Earth.
