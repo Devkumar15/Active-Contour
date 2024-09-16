@@ -1,0 +1,10 @@
+Python 3.x
+opencv-python (cv2)
+rasterio
+skimage (scikit-image)
+matplotlib
+numpy
+Pillow
+scipy
+gdal
+osgeo
